@@ -54,8 +54,8 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "core-js": "^3.20.1",
-    "tslib": "^2.3.1"
+    "puppeteer-core": "^13.0.1",
+    "w2m": "1.0.0-alpha.4"
   },
   "files": [
     "dist"
