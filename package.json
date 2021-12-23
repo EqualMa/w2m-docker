@@ -1,18 +1,12 @@
 {
-  "name": "@tlib/package-template",
+  "name": "w2m-docker",
+  "private": true,
   "version": "1.2.1",
-  "description": "an example package published from template for typescript libraries",
-  "license": "MIT",
+  "description": "A docker image to sync weibo to mastodon",
+  "license": "GPL-3.0",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
   "types": "dist/index.d.ts",
-  "keywords": [
-    "tlib",
-    "typescript",
-    "semantic-release",
-    "codegen",
-    "template"
-  ],
   "author": {
     "name": "EqualMa",
     "email": "equalma@outlook.com",
@@ -68,5 +62,6 @@
   ],
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "packageManager": "yarn@3.1.1"
 }
