@@ -11,7 +11,7 @@ module.exports = {
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    ["", { name: "equalma/w2m" }],
+    ["@semantic-release-plus/docker", { name: "equalma/w2m" }],
     "@semantic-release/git",
     "@semantic-release/github",
   ],
