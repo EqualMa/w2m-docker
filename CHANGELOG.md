@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/EqualMa/w2m-docker/compare/v1.0.0...v1.0.1) (2021-12-23)
+
+
+### Bug Fixes
+
+* retry release ([25eeeb4](https://github.com/EqualMa/w2m-docker/commit/25eeeb422d3e3cdfe04d4476a79e992d857cd8fb))
+
 # 1.0.0 (2021-12-23)
 
 
