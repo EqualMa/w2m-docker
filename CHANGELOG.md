@@ -1,3 +1,10 @@
+# 1.0.0 (2021-12-23)
+
+
+### Bug Fixes
+
+* trigger release ([1e87724](https://github.com/EqualMa/w2m-docker/commit/1e87724419aabfeab12b8b8cb2b448e41ad2ff06))
+
 ## [1.2.1](https://github.com/tlibjs/package-template/compare/v1.2.0...v1.2.1) (2021-07-21)
 
 ### Bug Fixes
