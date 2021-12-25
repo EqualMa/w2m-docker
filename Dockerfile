@@ -15,6 +15,10 @@ USER pptruser
 
 WORKDIR /app
 
+RUN mkdir /app/.chromium-profile
+
+VOLUME /app/.chromium-profile
+
 COPY --chown=pptruser:pptruser .yarn /app/.yarn
 COPY --chown=pptruser:pptruser package.json .yarnrc.yml yarn.lock /app/
 
