@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/EqualMa/w2m-docker/compare/v1.0.2...v1.0.3) (2021-12-25)
+
+
+### Bug Fixes
+
+* declare volume for .chromium-profile in Dockerfile ([324715b](https://github.com/EqualMa/w2m-docker/commit/324715b950df31c1a6c11c5fc7d297ab2fc6b889))
+
 ## [1.0.2](https://github.com/EqualMa/w2m-docker/compare/v1.0.1...v1.0.2) (2021-12-23)
 
 
