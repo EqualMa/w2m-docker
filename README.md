@@ -22,5 +22,5 @@ Prepare `.w2mrc.json`, fill in the values.
 Then run:
 
 ```sh
-docker run --rm -v "$(pwd)"/.w2mrc.json:/app/.w2mrc.json equalma/w2m
+docker run --rm -v "$(pwd)/.w2mrc.json:/app/.w2mrc.json" -v "$(pwd)/.chromium-profile:/app/.chromium-profile" equalma/w2m
 ```
