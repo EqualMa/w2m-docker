@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/EqualMa/w2m-docker/compare/v1.0.3...v1.0.4) (2021-12-26)
+
+
+### Bug Fixes
+
+* run with user node and make sure file permissions before commands ([89c3315](https://github.com/EqualMa/w2m-docker/commit/89c3315af2f583dc2fc620b22291259f71e29e27))
+
 ## [1.0.3](https://github.com/EqualMa/w2m-docker/compare/v1.0.2...v1.0.3) (2021-12-25)
 
 
