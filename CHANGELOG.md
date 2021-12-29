@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/EqualMa/w2m-docker/compare/v1.1.1...v1.1.2) (2021-12-29)
+
+
+### Bug Fixes
+
+* upgrade w2m to 1.0.0-alpha.8 to fix sync failure for mblogs with more than 9 images ([a3f53d3](https://github.com/EqualMa/w2m-docker/commit/a3f53d38604183b3ef405d2c62b6daa59a54ee38))
+
 ## [1.1.1](https://github.com/EqualMa/w2m-docker/compare/v1.1.0...v1.1.1) (2021-12-29)
 
 
