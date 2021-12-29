@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/EqualMa/w2m-docker/compare/v1.1.0...v1.1.1) (2021-12-29)
+
+
+### Bug Fixes
+
+* upgrade w2m to 1.0.0-alpha.7 to fix first login failure ([25ee248](https://github.com/EqualMa/w2m-docker/commit/25ee2482b2389e98412a4a6fdc7dd46d3d29a944))
+
 # [1.1.0](https://github.com/EqualMa/w2m-docker/compare/v1.0.4...v1.1.0) (2021-12-29)
 
 
