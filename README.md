@@ -7,6 +7,10 @@ Prepare `.w2mrc.json`, fill in the values.
 ```json
 {
   "stopAfterFailed": true,
+  // You can set `defaultWeiboLogin` to `true` and
+  // login with the QRCode printed to console,
+  // in case that Weibo blocks your ip.
+  "defaultWeiboLogin": false,
   "syncList": [
     {
       "weibo": { "userId": "<Your Weibo User Number Id>" },
