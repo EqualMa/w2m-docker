@@ -10285,13 +10285,13 @@ __metadata:
     ts-jest: ^27.1.2
     ts-node: ^10.4.0
     typescript: ^4.5.4
-    w2m: 1.0.0-alpha.7
+    w2m: 1.0.0-alpha.8
   languageName: unknown
   linkType: soft
 
-"w2m@npm:1.0.0-alpha.7":
-  version: 1.0.0-alpha.7
-  resolution: "w2m@npm:1.0.0-alpha.7"
+"w2m@npm:1.0.0-alpha.8":
+  version: 1.0.0-alpha.8
+  resolution: "w2m@npm:1.0.0-alpha.8"
   dependencies:
     "@swc/helpers": ^0.3.2
     cheerio: ^1.0.0-rc.10
@@ -10314,7 +10314,7 @@ __metadata:
   bin:
     w2m-sync: scripts/sync.js
     w2m-test-config: scripts/test-config.js
-  checksum: e5d537a7a9749c74c0b3b017b0dd9d50b5b96f68a04541092d57ea38706a38afe114091b25d226462f79cad08c25ab1bf5c108374696d675658825d2743ef662
+  checksum: 2de6fd82a5cf1e4825ed23cd168f80fba7297b93be112df47aaa19a1e88730d81f72f9f402e10cfff20e57e5c551b4f9d5545fe9a533b4bd8ab12453290f62c9
   languageName: node
   linkType: hard
 
