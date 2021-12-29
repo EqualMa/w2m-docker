@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/EqualMa/w2m-docker/compare/v1.0.4...v1.1.0) (2021-12-29)
+
+
+### Features
+
+* upgrade w2m to 1.0.0-alpha.6 to allow defaultWeiboLogin config ([e74bdad](https://github.com/EqualMa/w2m-docker/commit/e74bdad0d6067145130ff245af1c776f7d87e6d8))
+
 ## [1.0.4](https://github.com/EqualMa/w2m-docker/compare/v1.0.3...v1.0.4) (2021-12-26)
 
 
