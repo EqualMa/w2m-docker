@@ -5268,6 +5268,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"he@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "he@npm:1.2.0"
+  bin:
+    he: bin/he
+  checksum: 3d4d6babccccd79c5c5a3f929a68af33360d6445587d628087f39a965079d84f18ce9c3d3f917ee1e3978916fc833bb8b29377c3b403f919426f91bc6965e7a7
+  languageName: node
+  linkType: hard
+
 "hook-std@npm:^2.0.0":
   version: 2.0.0
   resolution: "hook-std@npm:2.0.0"
@@ -10285,18 +10294,19 @@ __metadata:
     ts-jest: ^27.1.2
     ts-node: ^10.4.0
     typescript: ^4.5.4
-    w2m: 1.0.0-alpha.8
+    w2m: 1.0.0-alpha.9
   languageName: unknown
   linkType: soft
 
-"w2m@npm:1.0.0-alpha.8":
-  version: 1.0.0-alpha.8
-  resolution: "w2m@npm:1.0.0-alpha.8"
+"w2m@npm:1.0.0-alpha.9":
+  version: 1.0.0-alpha.9
+  resolution: "w2m@npm:1.0.0-alpha.9"
   dependencies:
     "@swc/helpers": ^0.3.2
     cheerio: ^1.0.0-rc.10
     core-js: ^3.20.0
     got: 11
+    he: ^1.2.0
     jsonc-parser: ^3.0.0
     luxon: ^2.2.0
     megalodon: ^3.6.7
@@ -10314,7 +10324,7 @@ __metadata:
   bin:
     w2m-sync: scripts/sync.js
     w2m-test-config: scripts/test-config.js
-  checksum: 2de6fd82a5cf1e4825ed23cd168f80fba7297b93be112df47aaa19a1e88730d81f72f9f402e10cfff20e57e5c551b4f9d5545fe9a533b4bd8ab12453290f62c9
+  checksum: 99f8c92b62e9c15de1a2f2a9df91ca90f5a52be1d8c607ec9f6e39e08bf6912acba19c23a6fab9760a4ede59f9e2f0ea69c95b0466beb4d0c1185bf21c0d05da
   languageName: node
   linkType: hard
 

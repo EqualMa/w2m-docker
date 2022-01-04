@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "puppeteer-core": "^13.0.1",
-    "w2m": "1.0.0-alpha.8"
+    "w2m": "1.0.0-alpha.9"
   },
   "files": [
     "dist"
