@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/EqualMa/w2m-docker/compare/v1.1.2...v1.1.3) (2022-01-04)
+
+
+### Bug Fixes
+
+* upgrade w2m to 1.0.0-alpha.9 to fix: weibo mblog input.textRaw should be html decoded ([df2cfe4](https://github.com/EqualMa/w2m-docker/commit/df2cfe4816ca1e4eccd56564ea05ff50f5eda8a1))
+
 ## [1.1.2](https://github.com/EqualMa/w2m-docker/compare/v1.1.1...v1.1.2) (2021-12-29)
 
 
